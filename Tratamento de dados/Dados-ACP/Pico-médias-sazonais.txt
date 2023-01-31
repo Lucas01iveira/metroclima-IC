@@ -1,0 +1,5 @@
+Season	mean	std
+Autumn	416.948	8.455
+Spring	421.692	8.805
+Summer	417.495	9.863
+Winter	417.91	7.518

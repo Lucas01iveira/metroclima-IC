@@ -1,0 +1,4 @@
+Station	mean	std
+IAG	426.64	20.11
+Pico do Jaraguá	419.71	8.23
+Unicid	426.03	15.63

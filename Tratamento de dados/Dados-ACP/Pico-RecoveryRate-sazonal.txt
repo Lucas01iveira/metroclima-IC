@@ -1,0 +1,5 @@
+Season	avail
+Autumn	0.912
+Spring	0.83
+Summer	0.577
+Winter	0.952
